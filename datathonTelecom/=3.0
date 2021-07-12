@@ -1,0 +1,2 @@
+Requirement already satisfied: Jinja2 in /home/miriam/anaconda3/envs/dsdhblend/lib/python3.7/site-packages (3.0.1)
+Requirement already satisfied: MarkupSafe>=2.0 in /home/miriam/anaconda3/envs/dsdhblend/lib/python3.7/site-packages (from Jinja2) (2.0.1)
